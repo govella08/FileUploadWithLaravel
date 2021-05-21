@@ -1,0 +1,4 @@
+controller: UploadController
+Model: Upload
+
+Table columns: id, category, path

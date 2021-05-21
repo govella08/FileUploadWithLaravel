@@ -1,0 +1,16 @@
+body {
+    font-family: Montserrat;
+    font-size: 14px;
+}
+
+.card {
+    padding: 20px;
+}
+
+form button.btn-outline-primary {
+    margin-top: 20px;
+}
+
+a.btn-outline-secondary {
+    margin-bottom: 20px;
+}
